@@ -59,14 +59,14 @@ function hideRu() {
 
 
 const wordsEn = [
-    "<p class='content__blocke'>1</p>",
-    "<p class='content__blocke'>2</p>",
-    "<p class='content__blocke'>3</p>",
+    "<p class='content__blocke'></p>",
+    "<p class='content__blocke'></p>",
+    "<p class='content__blocke'></p>",
 ];
 const wordsRu = [
-    "<p class='content__blockr'>a</p>",
-    "<p class='content__blockr'>b</p>",
-    "<p class='content__blockr'>c</p>",
+    "<p class='content__blockr'></p>",
+    "<p class='content__blockr'></p>",
+    "<p class='content__blockr'></p>",
 ];
 let array = []
 for (let i = 0; i < wordsEn.length; i++) {
